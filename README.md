@@ -190,5 +190,3 @@ This is the method most people may use as this one activates it PERMANENT.
 No one yet. You are allowed to make one for me and share it. Or i will add one soon.
 # Last Words
 I hope you enjoy it!
-# Support and Help
-If you have any further questions or need further help, you can email me by clicking [this link](mailto:Minionguyjpro@gmail.com?subject=Activate%20Windows%2010%20and%2011%20Pro%20for%20free&body=Hi%20there%2C%20Minionguyjpro.%0A--%20Replace%20this%2Fthese%20line(s)%20with%20your%20question%2Fdescription%20--%0A(From%20GitHub%20page%3A%20https%3A%2F%2Fgist.github.com%2FMinionguyjpro%2Fd913b3931e844ad8ad9a758a4aca4b63)) or email me at Minionguyjpro@gmail.com. You can also comment on this guide or contact me on Discord using [this](http://discordapp.com/users/749182566569082886) link or add me using Minionguyjpro#2502. You will need to have me as friend, as I for security reasons don't allow direct messages.
